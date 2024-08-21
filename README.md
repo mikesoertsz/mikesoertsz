@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate frontend developer based in Porto, Portugal</h3>
+<h3 align="center">A passionate entrepreneir, Fractional CTO & full-stack developer based in Porto, Portugal</h3>
 
 <p align="left"> <a href="https://twitter.com/mikedrifter" target="blank"><img src="https://img.shields.io/twitter/follow/mikedrifter?logo=twitter&style=for-the-badge" alt="mikedrifter" /></a> </p>
 
